@@ -1,1 +1,1 @@
-![View Visualisations (PDF)](./PDF.pdf)
+[View Visualisations (PDF)](./PDF.pdf)
