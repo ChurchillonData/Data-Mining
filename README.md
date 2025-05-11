@@ -1,4 +1,4 @@
-# 🧠 Income and Demographics Analysis Using US Census Data
+# 📊 Income and Demographics Analysis Using US Census Data
 
 This project performs a comprehensive data mining analysis using US census data. It includes preprocessing, fairness evaluation, income prediction models, election-related demographic analysis, and an independent research hypothesis. All visualizations, statistical insights, and machine learning methods are structured for reproducibility and transparency.
 
